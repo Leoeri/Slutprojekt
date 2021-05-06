@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vo1G8uJ3rjaspyxHsnegzC/ckXGzQrv24Wvlz5sU+fpwfUCOUSZf5mpMOQLmQSzB/ELlLIEHirTOynGEW4KBkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leoer\\Desktop\\Prrprr\\Slutprojekt2\\Slutprojekt\\Slutprojekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leoer\\.nuget\\packages\\raylib-cs\\3.5.0\\raylib-cs.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
